@@ -1,0 +1,26 @@
+
+#preview img{
+    display: block;
+    max-width: 320px;
+    max-height: 240px;
+}
+.btn.active{
+    background-color: #faa;
+}
+#create-form, #preview{
+    margin: 40px auto;
+    width: 50%;
+    display: block;
+}
+#preview{
+    display: none;
+}
+.tools{
+    padding: 20px 0;
+}
+#logInModal .input-group{
+    margin: 10px 0;
+}
+.form-check{
+    margin: 10px 0;
+}
